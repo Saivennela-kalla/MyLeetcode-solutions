@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 ## String
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0015-3sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0015-3sum) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
