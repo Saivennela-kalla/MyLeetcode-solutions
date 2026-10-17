@@ -6,7 +6,6 @@ class Solution {
             current = Math.max(nums[i], current + nums[i]);
             best = Math.max(best, current);
         }
-
         return best;
     }
 }
