@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Binary Search
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0053-maximum-subarray) |
 ## Manacher
 |  |
 | ------- |
