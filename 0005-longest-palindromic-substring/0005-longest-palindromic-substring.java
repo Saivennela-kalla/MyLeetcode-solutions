@@ -2,7 +2,6 @@ class Solution {
     public String longestPalindrome(String s) {
         int start = 0;
         int longest = 1;
-
         for (int center = 0; center < s.length(); center++) {
             int oddLength = expand(s, center, center);
             int evenLength = expand(s, center, center + 1);
@@ -13,7 +12,6 @@ class Solution {
                 start = center - (length - 1) / 2;
             }
         }
-
         return s.substring(start, start + longest);
     }
 
