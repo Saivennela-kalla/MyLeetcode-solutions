@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0399-evaluate-division) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Manacher
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Matrix
 |  |
 | ------- |
@@ -147,4 +150,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0399-evaluate-division) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Memoization
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Saivennela-kalla/MyLeetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
